@@ -1,15 +1,15 @@
-# Naudojimosi instrukcija
+Panaudoti asociatyvius konteinerius.
+Nuskaityti faila.
+Parodyti zodzio pasikartojimo skaitciu ir jo vieta.
+Atskirti URLs.
 
 # Įdiegimo instrukcija
 
-git clone --branch v2.0 https://github.com/gkemeza/Objektinis_programavimas_uzduotys2.git \
-cd Objektinis_programavimas_uzduotys2 \
-mkdir build && cd build \
-cmake .. \
+git clone https://github.com/gkemeza/Objektinis_papildoma.git \
+cd Objektinis_papildoma \
+mkdir -p build
+cd build
+cmake ..
 cmake --build .
-
-**Windows paleidimas:**\
-Debug\Darbas_su_studentais.exe
-
-**Linux/Mac paleidimas:**\
-./Darbas_su_studentais
+cd ..
+./build/Papildomas_darbas
