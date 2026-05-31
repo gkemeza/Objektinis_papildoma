@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+
+# Build output
+build/
+
+# Editor config
+.vscode/
+.cache/
+
+# Local scripts
+run.bat
+run.sh

@@ -1,0 +1,19 @@
+Vilnius University is one of the oldest universities in Eastern Europe.
+Its official website can be found at https://www.vu.lt/ and the short
+version also works: https://vu.lt/. The Faculty of Mathematics and
+Informatics has its own page at https://www.mif.vu.lt/en/.
+
+For those interested in open source development, GitHub remains the
+largest platform. Visit https://github.com/ or check out specific
+projects like the Linux kernel at https://github.com/torvalds/linux.
+
+Some links are written in markdown format, such as
+[Vilnius University](https://www.vu.lt) or the faculty page
+[MIF](https://www.mif.vu.lt/en/). Shortened bare links also appear
+in text, for example www.vu.lt or www.github.com without a protocol.
+
+European institutions maintain portals like https://europa.eu/ and
+https://www.iana.org/. Stack Overflow at https://stackoverflow.com/
+is frequently used by developers. Wikipedia is at https://www.wikipedia.org/.
+
+Markdown style: [vu.lt](http://vu.lt/) and [GitHub](https://github.com).
