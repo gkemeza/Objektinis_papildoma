@@ -1,6 +1,6 @@
-Panaudoti asociatyvius konteinerius.
-Nuskaityti faila.
-Parodyti zodzio pasikartojimo skaitciu ir jo vieta.
+Panaudoti asociatyvius konteinerius. \
+Nuskaityti faila. \
+Parodyti zodzio pasikartojimo skaitciu ir jo vieta. \
 Atskirti URLs.
 
 # Įdiegimo instrukcija
